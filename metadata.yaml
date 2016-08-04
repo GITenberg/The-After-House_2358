@@ -1,0 +1,31 @@
+_repo: The-After-House_2358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Mary Roberts Rinehart (1876-1958) was an American author of hundreds
+  of short stories, poems, travelogues and special articles. Some of her very successful
+  books and plays, such as "The Bat" (1920) were adapted for movies. While many of
+  her books were best-sellers, critics were most appreciative of her murder mysteries.
+  She also coined the famous phrase "The butler did it."
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Yachts -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The After House
+url: http://www.gutenberg.org/ebooks/2358
